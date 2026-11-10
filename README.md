@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, ich bin Lukas 👋
 
-<!--
-**Lukas091128/Lukas091128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Interessiere mich für Python, HTML und CSS  
+🚀 Programmiere gelegentlich kleinere Projekte und lerne dabei immer etwas Neues  
+🎮 Technik, Gaming und Modding gehören ebenfalls zu meinen Interessen
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Was ich aktuell lerne
+
+- Python
+- HTML
+- CSS
+- Allgemeine Programmier-Grundlagen
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://gitpeak.vercel.app/api/readme?username=Lukas091128" alt="GitHub Activity" />
+</p>
+
+---
+
+## 🎯 Mein Ziel
+
+Aktuell sammle ich Erfahrungen mit verschiedenen Programmiersprachen und arbeite daran, meine Kenntnisse Schritt für Schritt auszubauen.
+
+---
+
+## 📫 Kontakt
+
+GitHub: https://github.com/Lukas091128
+
+---
+
+⭐ Danke für den Besuch meines Profils!
